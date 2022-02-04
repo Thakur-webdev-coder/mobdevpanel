@@ -12,6 +12,3 @@ const Login = () => {
 export default Login;
 
 const styles = StyleSheet.create({});
-
-
-// git remote set-url originhttps://github.com/Thakur-webdev-coder/movdev-Panel.git
